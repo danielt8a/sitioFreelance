@@ -2,6 +2,7 @@
     --blanco: #ffffff;
     --oscuro: #212121;
     --primario: #FFC107;
+    --secundario: #0097A7;
 }
 
 html {
@@ -15,6 +16,7 @@ body {
 .titulo {
     text-align: center;
     font-size: 3.8 rem;
+    font-family: 'Krub', sans-serif;
     color: var(--primario);
 }
 
